@@ -3,11 +3,10 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-- 👋 Hi, I’m @giacomocalabria
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @giacomocalabria and currently i'm a student
+- 👀 I’m interested in Cybersecurity, Big Data Computing, Artificial Intellingence, Machine Learning, High Performance Computing and so on…
+- 🌱 I’m currently learning Computer Engineering at University of Padua
+- 📫 How to reach me: email or social
 
 ---
 
