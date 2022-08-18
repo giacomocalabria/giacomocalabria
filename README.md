@@ -4,8 +4,9 @@
 </h1>
 
 - 👋 Hi, I’m @giacomocalabria and currently i'm a student
-- 👀 I’m interested in Cybersecurity, Big Data Computing, Artificial Intellingence, Machine Learning, High Performance Computing and so on…
+- 👀 I’m interested in Cybersecurity, AI, IoT and so on …
 - 🌱 I’m currently learning Computer Engineering at University of Padua
+- 👾 I'm currently working with Arduino and Java Swing GUI
 - 📫 How to reach me: email or social
 
 ---
