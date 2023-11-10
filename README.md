@@ -3,10 +3,11 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-- 👋 Hi, I’m @giacomocalabria and currently i'm a student
-- 👀 I’m interested in telecommunications network, AI, IoT and so on …
-- 🌱 I’m currently learning Computer Engineering at University of Padua
-- 👾 I'm currently working on my thesis regarding intelligent surfaces and wireless antennas in MIMO system
+- 👋 Hi, I’m @giacomocalabria and currently i'm a graduate student
+- 👀 I’m interested in Telecommunications, Security and AI applications
+- 🎓 I take my bachelor's degree in Computer Engineering at University of Padua, my thesis regard intelligent surfaces and wireless antennas in MIMO system
+- 🌱 I’m currently learning Telecommunications Engineering at University of Padua
+- 👾 I'm currently attend courses of the master
 - 📫 How to reach me: email or social media
 
 ---
