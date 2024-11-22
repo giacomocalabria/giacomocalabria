@@ -3,12 +3,11 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-- 👋 Hi, I’m @giacomocalabria and currently i'm a graduate student
-- 👀 I’m interested in Telecommunications, Security and AI applications
+- 👋 ```Hello World!``` I’m Giacomo and i'm a graduate student
+- 👀 I’m interested in IoT and 5G/6G protocols and applications
 - 🎓 I take my bachelor's degree in Computer Engineering at University of Padua, my thesis regard intelligent surfaces and wireless antennas in MIMO system
-- 🌱 I’m currently learning Telecommunications Engineering at University of Padua
-- 👾 I'm currently attend courses of the master
-- 📫 How to reach me: email or social media
+- 🌱 I’m currently learning Telecommunications Engineering at University of Padua and attending courses of the master
+- 📧 You can check more about me on [MY WEBSITE](https://giacomocalabria.github.io/)
 
 ---
 
@@ -37,7 +36,4 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" **alt="Canva" width="40" height="40"/>&nbsp;
  </div>
 
-
 <p align="center">Made with ❤️ in Italy</p>
-
-<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
