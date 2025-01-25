@@ -3,10 +3,10 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-- 👋 ```Hello World!``` I’m Giacomo and i'm a graduate student
-- 👀 I’m interested in IoT and 5G/6G protocols and applications
+- 👋 ```Hello World!``` I’m Giacomo and i'm an italian graduate student
+- 👀 I’m interested in the wireless technologies like 5G/6G and WiFi (IEEE 802.11) protocols.
 - 🎓 I take my bachelor's degree in Computer Engineering at University of Padua, my thesis regard intelligent surfaces and wireless antennas in MIMO system
-- 🌱 I’m currently learning Telecommunications Engineering at University of Padua and attending courses of the master
+- 🌱 I’m currently learning Telecommunications Engineering at University of Padua and attending courses of the master.
 - 📧 You can check more about me on [MY WEBSITE](https://giacomocalabria.github.io/)
 
 ---
